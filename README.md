@@ -3,6 +3,10 @@ Symposium on Data Science and Statistics 2020 Poster Presentation
 
 PDF of poster created and presented at the Symposium on Data Science and Statistics 2020. 
 
+https://ww2.amstat.org/meetings/sdss/2020/onlineprogram/AbstractDetails.cfm?AbstractID=308479
+
+
+
 ## Data Science at the Mayo Clinic: Implementation of the Discovery, Translation, and Application (DTA) Framework in Outpatient Palliative Care Practice
 
 
